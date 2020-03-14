@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # httpserver-c：披着cpp外衣用c写的简易http服务器
 
 ## 概要
@@ -9,3 +10,7 @@
   + 修复其他一点bug
   
 ## 寄语：欢迎有志之士加入造/修bug行业 :watermelon:
+=======
+# httpserver-c
+# 一直在修bug中......
+>>>>>>> d687d2952e6cefa1a74e7b7e058b93592cc36855
